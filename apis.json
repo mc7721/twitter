@@ -1,0 +1,289 @@
+{
+    "name": "Twitter",
+    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/twitter-logo.png",
+    "tags": [
+        "api lifeycle",
+        "general data",
+        "have api",
+        "historical data api",
+        "imports",
+        "pedestal",
+        "relative data",
+        "service api",
+        "social",
+        "social networks",
+        "streams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/twitter\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": ".NET Library",
+            "url": "https:\/\/tweetinvi.codeplex.com\/"
+        },
+        {
+            "type": "Advertising Development Kit",
+            "url": "https:\/\/docs.fabric.io\/unity\/mopub\/overview.html"
+        },
+        {
+            "type": "Android SDK",
+            "url": "https:\/\/docs.fabric.io\/android\/fabric\/overview.html"
+        },
+        {
+            "type": "Apple SDK",
+            "url": "https:\/\/docs.fabric.io\/apple\/fabric\/overview.html"
+        },
+        {
+            "type": "Application Management",
+            "url": "https:\/\/apps.twitter.com\/"
+        },
+        {
+            "type": "Application Only Authentication",
+            "url": "https:\/\/dev.twitter.com\/oauth\/application-only"
+        },
+        {
+            "type": "Authentication",
+            "url": "https:\/\/dev.twitter.com\/oauth"
+        },
+        {
+            "type": "Authentication Overview",
+            "url": "https:\/\/dev.twitter.com\/oauth\/overview"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.twitter.com"
+        },
+        {
+            "type": "Best Practices",
+            "url": "https:\/\/dev.twitter.com\/overview\/general"
+        },
+        {
+            "type": "Beta",
+            "url": "https:\/\/docs.fabric.io\/unity\/beta\/overview.html"
+        },
+        {
+            "type": "Branding",
+            "url": "https:\/\/brand.twitter.com\/"
+        },
+        {
+            "type": "Branding",
+            "url": "https:\/\/dev.twitter.com\/overview\/terms\/display-requirements"
+        },
+        {
+            "type": "Branding",
+            "url": "https:\/\/about.twitter.com\/company\/brand-assets"
+        },
+        {
+            "type": "Case Studies",
+            "url": "https:\/\/dev.twitter.com\/overview\/case-studies"
+        },
+        {
+            "type": "Change Logs",
+            "url": "https:\/\/dev.twitter.com\/ads\/overview\/recent-changes"
+        },
+        {
+            "type": "Code",
+            "url": "https:\/\/dev.twitter.com\/overview\/api\/twitter-libraries"
+        },
+        {
+            "type": "ColdFusion Library",
+            "url": "http:\/\/monkehtweet.riaforge.org\/"
+        },
+        {
+            "type": "Console",
+            "url": "http:\/\/dev.twitter.com\/rest\/tools\/console"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/twitter"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/twitter"
+        },
+        {
+            "type": "CSS Control",
+            "url": "https:\/\/dev.twitter.com\/web\/overview\/css"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.twitter.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/dev.twitter.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.twitter.com\/api\/blog.rss?name=developer"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/dev.twitter.com\/overview\/documentation"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@twitter.com"
+        },
+        {
+            "type": "Embeddable",
+            "url": "https:\/\/dev.twitter.com\/web\/overview"
+        },
+        {
+            "type": "Encryption",
+            "url": "https:\/\/dev.twitter.com\/overview\/api\/tls"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.twitter.com\/engineering"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.twitter.com\/api\/blog.rss?name=engineering"
+        },
+        {
+            "type": "Error Codes",
+            "url": "https:\/\/dev.twitter.com\/overview\/api\/response-codes"
+        },
+        {
+            "type": "Events",
+            "url": "https:\/\/dev.twitter.com\/overview\/events"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/twittercommunity.com\/"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/twittercommunity.com\/c\/fabric"
+        },
+        {
+            "type": "Geo Guidelines",
+            "url": "https:\/\/dev.twitter.com\/overview\/terms\/geo-developer-guidelines"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/twitter"
+        },
+        {
+            "type": "Go Library",
+            "url": "https:\/\/github.com\/kurrik\/twittergo"
+        },
+        {
+            "type": "Internationalization",
+            "url": "https:\/\/dev.twitter.com\/overview\/general\/adding-international-support-to-your-apps"
+        },
+        {
+            "type": "Java Library",
+            "url": "https:\/\/www.github.com\/twitter\/hbc"
+        },
+        {
+            "type": "Node.js Library",
+            "url": "https:\/\/github.com\/BoyCook\/TwitterJSClient"
+        },
+        {
+            "type": "oEmbed",
+            "url": "https:\/\/dev.twitter.com\/web\/embedded-timelines\/oembed"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/dev.twitter.com\/overview\/general\/official-partner-program"
+        },
+        {
+            "type": "PHP Library",
+            "url": "https:\/\/github.com\/abraham\/twitteroauth"
+        },
+        {
+            "type": "PIN Based Authorization",
+            "url": "https:\/\/dev.twitter.com\/oauth\/pin-based"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.twitter.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.twitter.com\/api\/blog.rss?name=company"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/twitter.com\/privacy?lang=en"
+        },
+        {
+            "type": "Python Library",
+            "url": "https:\/\/github.com\/bear\/python-twitter"
+        },
+        {
+            "type": "Rate Limits",
+            "url": "https:\/\/dev.twitter.com\/rest\/public\/rate-limiting"
+        },
+        {
+            "type": "Rate Limits Chart",
+            "url": "https:\/\/dev.twitter.com\/rest\/public\/rate-limits"
+        },
+        {
+            "type": "Road Map",
+            "url": "https:\/\/dev.twitter.com\/ads\/overview\/upcoming-changes"
+        },
+        {
+            "type": "Ruby Library",
+            "url": "https:\/\/github.com\/sferik\/twitter"
+        },
+        {
+            "type": "Schema",
+            "url": "https:\/\/dev.twitter.com\/overview\/api\/entities-in-twitter-objects"
+        },
+        {
+            "type": "Security",
+            "url": "https:\/\/dev.twitter.com\/overview\/general\/security-best-practices"
+        },
+        {
+            "type": "Statistics",
+            "url": "https:\/\/docs.fabric.io\/unity\/answers\/overview.html"
+        },
+        {
+            "type": "Status",
+            "url": "https:\/\/dev.twitter.com\/overview\/status"
+        },
+        {
+            "type": "Streaming",
+            "url": "https:\/\/dev.twitter.com\/streaming\/overview"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/support.twitter.com\/"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/dev.twitter.com\/overview\/terms"
+        },
+        {
+            "type": "Transparency Report",
+            "url": "https:\/\/transparency.twitter.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Twitter"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/twitterapi\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/twittereng\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/twitter.com\/"
+        },
+        {
+            "type": "WordPress",
+            "url": "https:\/\/dev.twitter.com\/web\/wordpress"
+        }
+    ]
+}
